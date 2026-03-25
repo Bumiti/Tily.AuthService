@@ -1,0 +1,6 @@
+@Tily.AuthService_HostAddress = http://localhost:5173
+
+GET {{Tily.AuthService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
